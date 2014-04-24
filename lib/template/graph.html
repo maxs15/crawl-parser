@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <% for (var property in graph) { var content = graph[property]; %>
+      <% if (property === 'title') { %>
+        <title><%= content %></title>
+      <% } else { %>
+        <meta property="<%= property %>" content="<%= content %>">
+      <% } %>
+    <% } %>
+  </head>
+  <body>
+  </body>
+</html>

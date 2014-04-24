@@ -1,0 +1,23 @@
+{
+  "name": "crawl-parser",
+  "version": "0.0.1",
+  "description": "Connect middleware that allow the search engines, facebook, twitter crawlers... to read your webapp page",
+  "main": "lib/index.js",
+  "keywords": [
+    "open",
+    "graph",
+    "facebook",
+    "parser",
+    "middleware",
+    "express",
+    "connect",
+    "seo",
+    "share",
+    "node"
+  ],
+  "author": "Maxime Mezrahi",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "~1.0.0"
+  }
+}
