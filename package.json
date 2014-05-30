@@ -1,6 +1,6 @@
 {
   "name": "crawl-parser",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Connect middleware that allow the search engines, facebook, twitter crawlers... to read your webapp page",
   "main": "lib/index.js",
   "keywords": [
